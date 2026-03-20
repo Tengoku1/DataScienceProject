@@ -13,3 +13,5 @@ Additionally with this knowledge I was able to create a hypertuned model that pr
 Here is the link to my analysis: https://github.com/Tengoku1/DataScienceProject/blob/main/Data_Science_Analysis.ipynb
 
 Here is the link to my data exploration and graphs: https://github.com/Tengoku1/DataScienceProject/blob/main/Data_Science_Exploration.ipynb
+
+Here is the link to my posster: https://docs.google.com/presentation/d/1YuVAckmJqNRcS_rlJVNRVxZyYrveyaVx0RqP3Lv2pXo/edit?usp=sharing
