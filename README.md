@@ -9,4 +9,7 @@ As a result of the study I found that:
   2. Drug seizures do not allign with the model-death rate and are not correlated to County's having high model-death rates.
   3. Socioeconomic data is also a great predictor of county's which are at risk of high-overdose rates.
 Additionally with this knowledge I was able to create a hypertuned model that predicted high-overdose risk county's at an accuracy of 79%. I hope that future studies can be conducted in order to predict high risk communities by looking at population and socioeconomic data, and work to reducing overdose rates nationally.
-Here is the link to my analysis https://github.com/Tengoku1/DataScienceProject/blob/main/Data_Science_Analysis.ipynb
+
+Here is the link to my analysis: https://github.com/Tengoku1/DataScienceProject/blob/main/Data_Science_Analysis.ipynb
+
+Here is the link to my data exploration and graphs: https://github.com/Tengoku1/DataScienceProject/blob/main/Data_Science_Exploration.ipynb
